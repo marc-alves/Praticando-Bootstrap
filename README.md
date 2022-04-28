@@ -1,5 +1,5 @@
 # Praticando Bootstrap
 
-`Projeto para fins estudantis`
+`Projeto para praticar conceitos`
 
 
